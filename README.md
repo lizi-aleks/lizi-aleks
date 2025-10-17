@@ -11,6 +11,7 @@
 ![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=Figma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=black)
+![RobotFramework](https://img.shields.io/badge/Robot_Framework-white?style=for-the-badge&logo=RobotFramework&logoColor=black)
 ![DevTools](https://img.shields.io/badge/DevTools-white?style=for-the-badge&logo=DevTools)
 ![Charles_Proxy](https://img.shields.io/badge/Charles_Proxy-white?style=for-the-badge)
 

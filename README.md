@@ -3,7 +3,7 @@
 ## I am a Junior QA Engineer
 
 ### My CV
-
+[Link to my CV](https://docs.google.com/document/d/1m-CZGjxk7v0pxe9t1TBXHHWmPKV4PVZu3X8a6gxH97k/edit?usp=sharing)
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue)
 ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman)
